@@ -34,8 +34,14 @@ app.listen(3000,(req,res)=>{
 // git init
 // git status
 // git add .
-
-
+// create .gitignore file so that it cant be tracked in git and ignore untracked files in it. git never add ignore file and never track it.
+// git add .gitignore
+// to remove file from tracking --- git rm -r --cached node_modules
+// save snpashot git commit -m "first version of hotels"
+// github create repo and dont include readme file
+// git remote add origin https://github.com/Banshikabadkul/Node_Hotels.git
+// git branch -M main
+// git push -u origin main
 
 
 
